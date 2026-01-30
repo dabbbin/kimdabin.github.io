@@ -1,38 +1,27 @@
-name: John Doe
-support_dark_mode: true
-fork: true
+name: 김다빈
+fork: false
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
+  email: rhkahrake100@naver.com
+  github: [dabbbin](https://github.com/dabbbin)
   phone: 
-  gitlab: 
-  twitter: 
 
 languages:
+  - idiom: korean
   - idiom: English
-  - idiom: Russian
-  - idiom: French
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
-
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: Samyoouk University
 
 skills:
   - category: Backend
     skill: 
-      - Go
+      - 
       - Rust
   - category: Frontend
     skill:
-      - React
+      - React-native
       - Typescript
   - category: DevOps
     skill:
